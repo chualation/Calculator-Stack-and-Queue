@@ -1,1 +1,1 @@
-# CCDSALG_Calculator
+# dsalg-calculator
